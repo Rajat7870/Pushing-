@@ -3,7 +3,7 @@
 3. GIT add -A  --To add all the file in the staging area 
 4. GIT checkout --To reach the file to the previos version in case you don't want or match the file with previus commit
 5. Git diff ---to check the difference between working directory and staging
-
+6. Git -m -a ----Skip staging area and commit directly
  
 
 
