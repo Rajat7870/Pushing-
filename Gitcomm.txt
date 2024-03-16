@@ -6,4 +6,5 @@
 6. Git -m -a ----Skip staging area and commit directly
 7. Git rm ---Removing the file from working directory and staging area 
 8. Git rm --cached  --- Remove the file from  staging area
-
+9. Git status -S ----Showing the short status for Modified/ Commit
+10. Git Ignore--Ignore the file 
