@@ -1,0 +1,7 @@
+1. Git add --To add the file to the staging area
+2.touch -- To make a black file in any format
+3. GIT add -A  --To add all the file in the staging area 
+
+ 
+
+
