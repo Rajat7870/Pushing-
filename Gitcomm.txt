@@ -2,6 +2,7 @@
 2.touch -- To make a black file in any format
 3. GIT add -A  --To add all the file in the staging area 
 
- sdfasdfasdfas
+ 
 
 
+fsfsfs
