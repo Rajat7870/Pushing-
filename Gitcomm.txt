@@ -8,3 +8,5 @@
 8. Git rm --cached  --- Remove the file from  staging area
 9. Git status -S ----Showing the short status for Modified/ Commit
 10. Git Ignore--Ignore the file 
+12. Git Branch : to check the no. of Branch Available
+13. Git Branch _____ (Name of Branch) : Making a new branch
